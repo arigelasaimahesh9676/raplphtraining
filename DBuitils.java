@@ -4,6 +4,7 @@ this is my first devops class
 <<<<<<< HEAD
  Hello ralph
 =======
+developed for stash!!!
 
  this is the line which i wrote in development branch!!!
 >>>>>>> development
